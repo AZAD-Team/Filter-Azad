@@ -14,7 +14,10 @@ limited support for 30 days.
 ## Reporting a Vulnerability
 
 1. **Do not** open public issues for security-sensitive topics.
-2. Navigate to the repository's **Security** tab and start a private advisory.
+2. Navigate to the repository's **Security** tab and start a private advisory
+   (**Report a vulnerability**). If that button is not available, open an issue
+   titled only "Security contact request" — with no technical details — and a
+   maintainer will contact you privately.
 3. Provide as much detail as possible:
    - Affected build (stable/beta), device model and Android version.
    - Steps to reproduce the issue.
